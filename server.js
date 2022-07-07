@@ -21,7 +21,8 @@ const engine = require('express-handlebars').engine;
 // request is used to make REST calls to the backend microservice
 // details here: https://www.npmjs.com/package/request
 var request = require('request');
-
+//New comment added
+print("Simple statement");
 // create the server
 const app = express();
 
