@@ -22,7 +22,7 @@ const engine = require('express-handlebars').engine;
 // details here: https://www.npmjs.com/package/request
 var request = require('request');
 //New comment added
-print("Simple statement");
+//Another comment added
 // create the server
 const app = express();
 
